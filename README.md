@@ -8,5 +8,5 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://gitee.com/nusqx/picgo/raw/master/blog/202309112017982.gif" /><br>
+  <img src="https://github.com/nusqx/pictures/blob/main/coding.gif" /><br>
 
